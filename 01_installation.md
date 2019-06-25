@@ -4,7 +4,7 @@ At the moment, the application is only available for Android mobile phones and c
 
 ## Allow Installation from Unknown Source
 
-As the application was not downloaded from the Google Play Store, the user has to allow the installation from the local file storage by clicking \*\*Settings\*\*, followed by allowing installation from the relevant application.
+As the application was not downloaded from the Google Play Store, the user has to allow the installation from the local file storage by clicking **Settings**, followed by allowing installation from the relevant application.
 
 ![Allow application installation](screenshots/installation_registration/01_install_permission.png)
 
@@ -12,7 +12,7 @@ As the application was not downloaded from the Google Play Store, the user has t
 
 ## Application Installation
 
-After the permissions to install have been given, the user can then proceed to install the application. After a few moments, the application is installed and the user can choose to close the installation dialogue or open the _Bwino_ app.
+After the permissions to install have been given, the user can then proceed to install the application. After a few moments, the application is installed and the user can choose to close the installation dialog box or open the _Bwino_ app.
 
 ![Application installation](screenshots/installation_registration/03_install_application.png)
 
