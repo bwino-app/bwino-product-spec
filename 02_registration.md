@@ -30,7 +30,7 @@ After the registration process is done, the user can now login to their account 
 
 ## Complete Account
 
-Upon logging in for the first time, the user needs to provide a valid email address and NRC (National Registration Card) number and select their gender. The NRC number format can include the forward slash i.e. `123456/10/1`.
+Upon logging in for the first time, the user needs to provide a valid email address and NRC (National Registration Card) number and select their gender. The NRC number format can include the forward slash i.e. **123456/10/1**.
 
 ![Personal details](screenshots/installation_registration/15_personal_details.png)
 
@@ -38,12 +38,16 @@ Next, the user needs to add their residential address to their account.
 
 ![Address entry](screenshots/installation_registration/16_address.png)
 
-Further, the user provides a scanned copy of their valid ID (NRC preferred) and can optionally upload a 3 months bank statement to increase their chances of getting a loan. The allowed file types are PDF (`pdf`), Word documents (`doc`, `docx`) and images (`jpg`, `png`, `jpeg` etc).
+Further, the user provides a scanned copy of their valid ID (NRC preferred) and can optionally upload a 3 months bank statement to increase their chances of getting a loan. The allowed file types are PDF (**pdf**), Word documents (**doc**, **docx**) and images (**jpg**, **png**, **jpeg** etc).
 
 ![Documents upload](screenshots/installation_registration/17_documents.png)
+
+> _**NB:** A feature yet to be implemented is one that allows the user to scan their documents right from the application itself._
 
 Lastly, the user can upload an avatar or profile image to personalize their account. This is optional and the user can update this at any time from their account.
 
 ![Avatar upload](screenshots/installation_registration/18_profile_picture_avatar.png)
+
+> _**NB:** A feature yet to implemented is one that allows the user to take a picture or a selfie instead of only uploading pictures from the gallery._
 
 ![Account information updated](screenshots/installation_registration/19_info_updated_success.png)
